@@ -3,6 +3,11 @@
   text-align: center;
   font-size: 10em;
   font-family: Helvetica;
+
+}
+
+#btnContainer{
+  text-align: center;
 }
 
 .buttons {
@@ -13,7 +18,7 @@
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.25s;
-
+ 
 }
 
 .buttons:hover{
